@@ -1,0 +1,9 @@
+1-TAD é uma maneira de realizar operações e implementações sem saber o que realmente
+esta fazendo aquilo funcionar. Com esse tipo podemos realizar operações como a pilha, que
+adiciona as entradas e depois retira-as quando concluida.
+
+2-Pilha é um TAD, que insere informações na ordem, e retira-os pelo ultimo da ordem, ou seja,
+ele segue a ordem de adição e remoção. Um exemplo de pilha é o historico do navegador, que
+adiciona os sites visitados e quando clicamos para voltar ele retira na mesma ordem.
+
+3-Fila é um TAD, que faz o contrario da pilha

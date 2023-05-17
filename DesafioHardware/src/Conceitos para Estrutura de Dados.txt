@@ -1,0 +1,20 @@
+1-TAD é uma maneira de realizar operações e implementações sem saber o que realmente
+esta fazendo aquilo funcionar. Com esse tipo podemos realizar operações como a pilha, que
+adiciona as entradas e depois retira-as quando concluida.
+
+2-Pilha é um TAD, que insere informações na ordem, e retira-os pelo ultimo da ordem, ou seja,
+ele segue a ordem de adição e remoção. Um exemplo de pilha é o historico do navegador, que
+adiciona os sites visitados e quando clicamos para voltar ele retira na mesma ordem.
+
+3-Fila é um TAD, que faz o contrario da pilha. Ele é do tipo que o primeiro que entrar sera
+o primeiro a sair. Um exemplo de fila é o ambiente de uma loja, onde a primeira pessoa a entrar
+sera a primeira pessoa a ser atendida e tambem a primeira a sair.
+
+4-O Big-O é uma forma de descrever o comportamento de um algoritmo ou função em termos de seu
+crescimento ou consumo de recursos à medida que o tamanho do problema aumenta. Ela fornece uma
+maneira eficiênte de um algoritmo em relação ao tamanho da entrada, independentemente de
+constantes ou termos de menor importância.
+
+Theta é
+
+Ômega é
